@@ -37,7 +37,7 @@ export FLASK_ENV=development
 5. Run the Flask application.
 flask run
 
-6. Access the application in your web browser at http://127.0.0.1:5000.
+6. Access the application in your web browser at http://127.0.0.1:5000
 
 ## The Users See:
 - "This tool helps to identify cognitive distortions in your thoughts. Cognitive distortions are irrational thought patterns that can contribute to mental health issues such as anxiety and depression."
